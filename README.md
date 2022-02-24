@@ -1,4 +1,4 @@
-# [![muneeb ajaz header](https://muneebajaz.cf/assets/img/header.jpg?c=1)](https://muneebajaz.cf)
+# [![muneeb ajaz header](https://muneebajaz.netlify.com/assets/img/header.jpg?c=1)](https://muneebajaz.netlify.com)
 <p align='center'>
 <a href="https://www.linkedin.com/in/mianmuneebajaz/" target="_blank"><img height="30" src="https://muneebajaz.cf/assets/img/Linkedin-logo.png"></a>
 <br/>
